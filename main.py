@@ -30,10 +30,10 @@ WINDOW_HEIGHT = 100
 CANVAS_CENTER_X = WINDOW_WIDTH // 2
 CANVAS_CENTER_Y = WINDOW_HEIGHT // 2
 
-# Default Configuration (made smaller by default)
+# Default Configuration
 DEFAULT_CONFIG = {
-    "color": "red",
-    "size": 4,       # Default size is now 4 (Medium)
+    "color": "#00FF00",
+    "size": 6,       # Default size is now 6 (Large)
     "shape": "dot",  # "dot", "crosshair", "circle", "dot_circle"
     "visible": True,
     "startup": False
